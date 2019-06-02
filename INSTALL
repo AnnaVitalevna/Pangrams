@@ -1,11 +1,11 @@
 Для сборки программы Pangrams необходимо установить Java SE Development Kit 8u202, 
 который доступен по ссылке:
-https://www.oracle.com/technetwork/es/java/javase/downloads/jdk8-downloads-2133151.html
+https://www.oracle.com/technetwork/es/java/javase/downloads/jdk8-downloads-2133151.html.
 
-Для сборки запустить скрипт build.bat
+Для сборки запустить скрипт build.bat.
 
 Для запуска программы необходимо установить Java SE Runtime Environment 8u202, 
 который доступен по ссылке:
-https://www.oracle.com/technetwork/java/javase/downloads/2133155
+https://www.oracle.com/technetwork/java/javase/downloads/2133155.
 
-Для запуска использовать скрипт Pangrams, находящийся в директории Pangrams/bin
+Для запуска использовать скрипт Pangrams, находящийся в директории Pangrams/bin.
